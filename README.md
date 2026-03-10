@@ -81,3 +81,5 @@ Como este é um projeto em constante evolução, alguns comandos podem apresenta
 Se este projeto te ajudou ou se você achou as funções interessantes, por favor, clique na **estrela (Star)** no topo da página. Isso motiva a continuação do desenvolvimento e a correção de bugs!
 
 ---
+the self bot code is in index.js. 
+https://github.com/flowlyn/self-bot-discord/blob/main/index.js
